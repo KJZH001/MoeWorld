@@ -1,0 +1,3 @@
+# vitepress 缓存
+.vitepress/dist
+.vitepress/cache
