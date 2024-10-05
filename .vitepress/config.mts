@@ -13,12 +13,22 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '前言',
+        collapsed: false,
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '开始', link: 'start' },
         ]
-      }
+      },
+      {
+        text: '前言',
+        collapsed: false,
+        items: [
+          { text: '什么是 VitePress？', link: 'what-is-vitepress' },
+          { text: '快速开始', link: 'getting-started' },
+          { text: '路由', link: 'routing' },
+          { text: '部署', link: 'deploy' }
+        ]
+      },
     ],
 
     socialLinks: [
