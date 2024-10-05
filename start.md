@@ -8,7 +8,7 @@ editLink: true
 因为这个站点，我更愿意将它视为是一本书，而不是一个手册
 ```
 ## 前言
-从 KJZH001/MoeWorld 这个URI你想必也能看出来，这个站点的规划的预期位置是多么的重要
+从 [KJZH001/MoeWorld](https://github.com/KJZH001/MoeWorld) 这个URI你想必也能看出来，这个站点的规划的预期位置是多么的重要
 
 甚至可以说，它也是除了博客、官网以外，对外的一个重要的入口（或者说是门面之一）
 
@@ -21,3 +21,18 @@ editLink: true
 同时，作为个人项目，本书将会贯彻个人的风格，而不会考虑那么多合适不合适的问题
 
 因此，在阅读本书的时候，请不要对于可能会出现的任何东西，感到惊讶w
+
+## 为什么是“萌界参考手册”？
+对于这个名字，确实有很多值得一提的东西
+
+从我的主观角度来说，其实更多的是在向2moe大佬的“天萌参考手册”致敬
+
+在我看来，将天萌管理器称之为我见过的最伟大的开源项目之一也不为过，同时2moe大佬的技术力也着实让我钦佩
+
+放眼整个开源社区和互联网，其实`参考手册`这个名字，虽然不是那么多见，但仔细找找还是有不少的
+
+例如说，这本由`青木修`大佬编写的[`Debian 参考手册`](https://www.debian.org/doc/manuals/debian-reference/index.zh-cn.html)
+
+> 嗯嗯，有空的话，可以看看debain 官网的手册。~~在闲暇时陶冶情操~~（bushi：<br>
+> [https://www.debian.org/doc/manuals/debian-reference/index.zh-cn.html](https://www.debian.org/doc/manuals/debian-reference/index.zh-cn.html) <br>
+> —— 2moe
