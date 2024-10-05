@@ -8,11 +8,11 @@ hero:
   tagline: 一切来自于梦，万物皆可为萌！
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 开始阅读
+      link: /start
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 附录
+      link: /other
 
 features:
   - title: Feature A
