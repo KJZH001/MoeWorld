@@ -20,13 +20,12 @@ export default defineConfig({
         ]
       },
       {
-        text: '前言',
+        text: '眷族们',
         collapsed: false,
         items: [
-          { text: '什么是 VitePress？', link: 'what-is-vitepress' },
-          { text: '快速开始', link: 'getting-started' },
-          { text: '路由', link: 'routing' },
-          { text: '部署', link: 'deploy' }
+          { text: '概述', link: '眷族们/概述' },
+          { text: '星空酱', link: '眷族们/星空酱' },
+          { text: '琉璃酱', link: '眷族们/琉璃酱' },
         ]
       },
     ],
