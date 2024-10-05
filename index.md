@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "萌界参考手册"
-  text: "一切来自于梦，万物皆可为萌！"
-  tagline: My great project tagline
+  text: "MoeWorld Reference Manual"
+  tagline: 一切来自于梦，万物皆可为萌！
   actions:
     - theme: brand
       text: Markdown Examples
