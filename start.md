@@ -27,7 +27,7 @@ editLink: true
 
 从我的主观角度来说，其实更多的是在向2moe大佬的“天萌参考手册”致敬
 
-在我看来，将天萌管理器称之为我见过的最伟大的开源项目之一也不为过，同时2moe大佬的技术力也着实让我钦佩
+在我看来，将天萌管理器称之为我见过的最伟大的开源项目之一也不为过，同时二萌大佬的技术力也着实让我钦佩
 
 放眼整个开源社区和互联网，其实`参考手册`这个名字，虽然不是那么多见，但仔细找找还是有不少的
 
@@ -35,4 +35,4 @@ editLink: true
 
 > 嗯嗯，有空的话，可以看看debain 官网的手册。~~在闲暇时陶冶情操~~（bushi：<br>
 > [https://www.debian.org/doc/manuals/debian-reference/index.zh-cn.html](https://www.debian.org/doc/manuals/debian-reference/index.zh-cn.html) <br>
-> —— 2moe
+> —— 二萌
