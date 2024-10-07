@@ -17,6 +17,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: '开始', link: '/start' },
+          { text: '许可', link: '/license' },
         ]
       },
       {
