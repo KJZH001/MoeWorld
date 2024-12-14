@@ -35,6 +35,7 @@ export default defineConfig({
         items: [
           { text: '概述', link: '/bot命令指南/概述' },
           { text: '抽签', link: '/bot命令指南/抽签' },
+          { text: '抽干员', link: '/bot命令指南/抽干员' },
           { text: '塔罗牌', link: '/bot命令指南/塔罗牌' },
         ]
       },
