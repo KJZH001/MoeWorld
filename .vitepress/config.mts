@@ -29,6 +29,15 @@ export default defineConfig({
           { text: '琉璃酱', link: '/眷族们/琉璃酱' },
         ]
       },
+      {
+        text: '',
+        collapsed: false,
+        items: [
+          { text: '概述', link: '/bot命令指南/概述' },
+          { text: '抽签', link: '/bot命令指南/抽签' },
+          { text: '塔罗牌', link: '/bot命令指南/塔罗牌' },
+        ]
+      },
     ],
 
     socialLinks: [
