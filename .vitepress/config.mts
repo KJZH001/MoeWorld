@@ -39,7 +39,41 @@ export default defineConfig({
           { text: '塔罗牌', link: '/bot命令指南/塔罗牌' },
         ]
       },
-
+      {
+        text: '设定集',
+        collapsed: false,
+        items: [
+          { 
+            text: '澪域：传说', 
+            collapsed: false,
+            items: [
+              { text: '概述', link: '/设定集/澪域：风愿/种族/精灵族' },
+              { 
+                text: '种族', 
+                collapsed: false,
+                items: [
+                  { text: '精灵族', link: '/设定集/澪域：风愿/种族/精灵族' },
+                  { text: '天使', link: '/设定集/澪域：风愿/种族/天使' }
+                ]
+              },
+            ]
+          },
+          { 
+            text: '澪域：风愿', 
+            collapsed: false,
+            items: [
+              { 
+                text: '种族', 
+                collapsed: false,
+                items: [
+                  { text: '精灵族', link: '/设定集/澪域：风愿/种族/精灵族' },
+                  { text: '天使', link: '/设定集/澪域：风愿/种族/天使' }
+                ]
+              },
+            ]
+          }
+        ]
+      },
     ],
 
     socialLinks: [
