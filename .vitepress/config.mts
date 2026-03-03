@@ -30,7 +30,7 @@ export default defineConfig({
         ]
       },
       {
-        text: '',
+        text: 'bot命令指南',
         collapsed: false,
         items: [
           { text: '概述', link: '/bot命令指南/概述' },
@@ -39,6 +39,7 @@ export default defineConfig({
           { text: '塔罗牌', link: '/bot命令指南/塔罗牌' },
         ]
       },
+
     ],
 
     socialLinks: [
